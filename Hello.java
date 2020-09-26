@@ -10,7 +10,7 @@ public class Hello extends HttpServlet {
                                throws ServletException, IOException {
                                	
 
-    int Count = 1;
+    int Count = 1;  //gitClone Test 1
 
    	req.setCharacterEncoding("Big5");
     res.setContentType("text/html; charset=Big5");
